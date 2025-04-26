@@ -1,7 +1,20 @@
 {
   "MenuItems": [
-    "Call of Dookie",
-    "FC25",
-    "Battlefield"
+    {
+      "Name": "call of dookie",
+      "SubItems": [
+        "ghost chair",
+        "pulse chair",
+        "ghost play"
+      ]
+    },
+    {
+      "Name": "fc25",
+      "SubItems": []
+    },
+    {
+      "Name": "battlefield",
+      "SubItems": []
+    }
   ]
 }
