@@ -1,29 +1,165 @@
-[
-  {
-    "id": 1,
-    "name": "Call of Dookie",
-    "url": "",
-    "subMenu": [
-      {
-        "id": 1,
-        "name": "Ghost Chair",
-        "url": "https://cdn.discordapp.com/attachments/1339464852426592267/1365684745119338496/test.zip?ex=680e3488&is=680ce308&hm=45ef65f33b205fc4e4d52e8d727f44d4b873f5af311f7f40060a99845e836c3a&"
-      },
-      {
-        "id": 2,
-        "name": "Puse Chair",
-        "url": "https://cdn.discordapp.com/attachments/1339464852426592267/1365692364642979891/pulse.zip?ex=680e3ba1&is=680cea21&hm=d8f8ef8e0fca91a4e75ada4d26eba54916cc421fd43fe13c657ec54300954b79&"
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "name": "FC25",
-    "url": "https://cdn.discordapp.com/attachments/1339464852426592267/1365684745119338496/test.zip?ex=680e3488&is=680ce308&hm=45ef65f33b205fc4e4d52e8d727f44d4b873f5af311f7f40060a99845e836c3a&"
-  },
-  {
-    "id": 3,
-    "name": "Battlefield",
-    "url": "http://example.com/battlefield_loader.exe"
-  },
-]
+{
+  "MenuItems": [
+    {
+      "Name": "Call Of Dookie",
+      "SubItems": [
+        {
+          "Name": "Ghost Chair",
+          "DownloadUrl": "https://cdn.discordapp.com/attachments/1339464852426592267/1365684745119338496/test.zip?ex=680e3488&is=680ce308&hm=45ef65f33b205fc4e4d52e8d727f44d4b873f5af311f7f40060a99845e836c3a&"
+        },
+        {
+          "Name": "Pulse Chair",
+          "DownloadUrl": "https://example.com/pulse-chair.zip"
+        },
+        {
+          "Name": "Ghost Play",
+          "DownloadUrl": "https://example.com/ghost-play.zip"
+        }
+      ]
+    },
+    {
+      "Name": "FC25",
+      "SubItems": [
+        {
+          "Name": "Download FC25",
+          "DownloadUrl": "https://example.com/fc25.zip"
+        }
+      ]
+    },
+    {
+      "Name": "Battlefield",
+      "SubItems": [
+        {
+          "Name": "Download Battlefield",
+          "DownloadUrl": "https://example.com/battlefield.zip"
+        }
+      ]
+    },
+    {
+      "Name": "Dead By Daylight",
+      "SubItems": [
+        {
+          "Name": "Download Dead By Daylight",
+          "DownloadUrl": "https://example.com/deadbydaylight.zip"
+        }
+      ]
+    },
+    {
+      "Name": "Delta Force",
+      "SubItems": [
+        {
+          "Name": "Download Delta Force",
+          "DownloadUrl": "https://example.com/delta-force.zip"
+        }
+      ]
+    },
+    {
+      "Name": "Valorant",
+      "SubItems": [
+        {
+          "Name": "Download Valorant",
+          "DownloadUrl": "https://example.com/valorant.zip"
+        }
+      ]
+    },
+    {
+      "Name": "Escape From Tarkov",
+      "SubItems": [
+        {
+          "Name": "Download Escape From Tarkov",
+          "DownloadUrl": "https://example.com/escape-from-tarkov.zip"
+        }
+      ]
+    },
+    {
+      "Name": "Rainbow 6 Siege",
+      "SubItems": [
+        {
+          "Name": "Download Rainbow 6 Siege",
+          "DownloadUrl": "https://example.com/rainbow6siege.zip"
+        }
+      ]
+    },
+    {
+      "Name": "Rust",
+      "SubItems": [
+        {
+          "Name": "Download Rust",
+          "DownloadUrl": "https://example.com/rust.zip"
+        }
+      ]
+    },
+    {
+      "Name": "Fortnite",
+      "SubItems": [
+        {
+          "Name": "Download Fortnite",
+          "DownloadUrl": "https://example.com/fortnite.zip"
+        }
+      ]
+    },
+    {
+      "Name": "Fragpunk",
+      "SubItems": [
+        {
+          "Name": "Download Fragpunk",
+          "DownloadUrl": "https://example.com/fragpunk.zip"
+        }
+      ]
+    },
+    {
+      "Name": "Marvel Rivals",
+      "SubItems": [
+        {
+          "Name": "Download Marvel Rivals",
+          "DownloadUrl": "https://example.com/marvelrivals.zip"
+        }
+      ]
+    },
+    {
+      "Name": "The Finals",
+      "SubItems": [
+        {
+          "Name": "Download The Finals",
+          "DownloadUrl": "https://example.com/thefinals.zip"
+        }
+      ]
+    },
+    {
+      "Name": "Apex Legends",
+      "SubItems": [
+        {
+          "Name": "Download Apex Legends",
+          "DownloadUrl": "https://example.com/apexlegends.zip"
+        }
+      ]
+    },
+    {
+      "Name": "CS2",
+      "SubItems": [
+        {
+          "Name": "Download CS2",
+          "DownloadUrl": "https://example.com/cs2.zip"
+        }
+      ]
+    },
+    {
+      "Name": "PUBG",
+      "SubItems": [
+        {
+          "Name": "Download PUBG",
+          "DownloadUrl": "https://example.com/pubg.zip"
+        }
+      ]
+    },
+    {
+      "Name": "Temp Spoofer",
+      "SubItems": [
+        {
+          "Name": "Download Temp Spoofer",
+          "DownloadUrl": "https://example.com/tempspoofer.zip"
+        }
+      ]
+    }
+  ]
+}
