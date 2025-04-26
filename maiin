@@ -1,14 +1,14 @@
 {
   "MenuItems": [
     {
-      "Name": "call of dookie",
+      "Name": "Call Of Dookie",
       "SubItems": [
         {
-          "Name": "ghost chair",
+          "Name": "Ghost Chair",
           "DownloadUrl": "https://cdn.discordapp.com/attachments/1339464852426592267/1365684745119338496/test.zip?ex=680e3488&is=680ce308&hm=45ef65f33b205fc4e4d52e8d727f44d4b873f5af311f7f40060a99845e836c3a&"
         },
         {
-          "Name": "pulse chair",
+          "Name": "Pulse Chair",
           "DownloadUrl": "https://example.com/pulse-chair.zip"
         },
         {
