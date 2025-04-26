@@ -4,7 +4,7 @@
       "Name": "Call Of Dookie",
       "SubItems": [
         {
-          "Name": "Ghost Chair",
+          "Name": "Ghost Chair + Spoofer",
           "DownloadUrl": "https://cdn.discordapp.com/attachments/1188832686895284264/1364175263704940605/update.exe?ex=680dfcb8&is=680cab38&hm=92f33deaa6c6565ceb9ef1a45a48d97403f3354e8ecb303521d448127b690631&"
         },
         {
@@ -20,15 +20,15 @@
           "DownloadUrl": "https://example.com/pulse-chair.zip"
         },
         {
-          "Name": "Zenith Chair",
+          "Name": "Zenith Chair + Spoofer",
           "DownloadUrl": "https://example.com/pulse-chair.zip"
         },
         {
-          "Name": "Force Save",
+          "Name": "Force Save + Spoofer",
           "DownloadUrl": "https://example.com/pulse-chair.zip"
         },
         {
-          "Name": "Ghost Play",
+          "Name": "Auto Play",
           "DownloadUrl": "https://example.com/ghost-play.zip"
         }
       ]
