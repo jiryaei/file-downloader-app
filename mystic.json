@@ -18,17 +18,8 @@
       ]
     },
     {
-      "Name": "FC25",
-      "SubItems": [
-        {
-          "Name": "FC25 Phantom",
+      "Name": "FC25 Chair",
           "DownloadUrl": "https://trxxlo.wants.solutions/r/FC25_Phantom.exe"
-        },
-        {
-          "Name": "FC25 Venom",
-          "DownloadUrl": "https://trxxlo.wants.solutions/r/FC25_Venom.exe"
-        }
-          ]
         },
     {
       "Name": "Rainbow 6 Siege",
