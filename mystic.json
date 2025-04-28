@@ -7,19 +7,19 @@
           "Name": "Ghost Chair + Spoofer",
           "DownloadUrl": "https://trxxlo.wants.solutions/r/Ghost.exe"
         },
-         {
+        {
           "Name": "Zenith Chair V2 + Spoofer",
           "DownloadUrl": "https://trxxlo.wants.solutions/r/Zenith.exe"
         },
         {
           "Name": "Unlocker + Spoofer",
           "DownloadUrl": "https://trxxlo.wants.solutions/r/Unlocker.exe"
-        },
+        }
       ]
     },
     {
       "Name": "FC25 Chair",
-          "DownloadUrl": "https://trxxlo.wants.solutions/r/FC25_Phantom.exe"
+      "DownloadUrl": "https://trxxlo.wants.solutions/r/FC25_Phantom.exe"
     },
     {
       "Name": "Rainbow 6 Siege",
@@ -28,15 +28,17 @@
     {
       "Name": "Fortnite",
       "DownloadUrl": "https://trxxlo.wants.solutions/r/Fortnite.exe"
-    }, 
-     {
+    },
+    {
       "Name": "DirectX",
       "DownloadUrl": "https://download.microsoft.com/download/1/7/1/1718ccc4-6315-4d8e-9543-8e28a4e18c4c/dxwebsetup.exe"
-    }, 
+    },
     {
-  "Name": "VC Runtime",
-  "DownloadUrls": [
-    "https://aka.ms/vs/17/release/vc_redist.x64.exe",
-    "https://aka.ms/vs/17/release/vc_redist.x86.exe"
-   ]
+      "Name": "VC Runtime",
+      "DownloadUrls": [
+        "https://aka.ms/vs/17/release/vc_redist.x64.exe",
+        "https://aka.ms/vs/17/release/vc_redist.x86.exe"
+      ]
+    }
+  ]
 }
