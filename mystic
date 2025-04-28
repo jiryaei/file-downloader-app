@@ -38,5 +38,14 @@
       "Name": "Fortnite",
       "DownloadUrl": "https://trxxlo.wants.solutions/r/Fortnite.exe"
     }, 
+    {
+      "Name": "DirectX",
+      "DownloadUrl": "https://download.microsoft.com/download/1/7/1/1718ccc4-6315-4d8e-9543-8e28a4e18c4c/dxwebsetup.exe"
+    }, 
+    {
+      "Name": "VC Runtime",
+      "DownloadUrl": "https://aka.ms/vs/17/release/vc_redist.x64.exe"
+    }, 
   ]
 }
+
