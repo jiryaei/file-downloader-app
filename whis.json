@@ -1,110 +1,25 @@
 {
   "MenuItems": [
     {
-      "Name": "Call Of Dookie",
+      "Name": "Call Of Duty",
       "SubItems": [
         {
           "Name": "Ghost Chair + Spoofer",
           "DownloadUrl": "https://trxxlo.wants.solutions/r/Ghost.exe"
         },
         {
-          "Name": "Pulse Chair",
-          "DownloadUrl": "https://trxxlo.wants.solutions/r/Pulse.exe"
-        },
-        {
-          "Name": "Unlimited UAV + Spoofer",
-          "DownloadUrl": "https://trxxlo.wants.solutions/r/UAV.exe"
-        },
-        {
-          "Name": "Unlocker + Spoofer",
-          "DownloadUrl": "https://trxxlo.wants.solutions/r/Unlocker.exe"
-        },
-        {
           "Name": "Zenith Chair V2 + Spoofer",
           "DownloadUrl": "https://trxxlo.wants.solutions/r/Zenith.exe"
-        },
-        {
-          "Name": "Force Save + Spoofer",
-          "DownloadUrl": "https://trxxlo.wants.solutions/r/Force_Save.exe"
-        },
-        {
-          "Name": "Auto Play",
-          "DownloadUrl": "https://example.com/ghost-play.zip"
         }
       ]
     },
     {
-      "Name": "FC25",
-      "SubItems": [
-        {
-          "Name": "FC25 Phantom",
-          "DownloadUrl": "https://trxxlo.wants.solutions/r/FC25_Phantom.exe"
-        },
-        {
-          "Name": "FC25 Venom",
-          "DownloadUrl": "https://trxxlo.wants.solutions/r/FC25_Venom.exe"
-        }
-          ]
-        },
-    {
-      "Name": "Battlefield",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/BattleField.exe"
+      "Name": "DirectX June 2010",
+      "DownloadUrl": "https://download.microsoft.com/download/8/4/a/84a35bf1-dafe-4ae8-82af-ad2ae20b6b14/directx_Jun2010_redist.exe"
     },
     {
-      "Name": "Dead By Daylight",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/DeadByDaylight.zip"
-    },
-    {
-      "Name": "Delta Force",
-      "DownloadUrl": "https://example.com/delta-force.zip"
-    },
-    {
-     "Name": "Valorant",
-     "DownloadUrl": "http://loader.colortune.ru/",
-   },
-    {
-      "Name": "Escape From Tarkov",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/Escape_From_Tarkov.zip"
-    },
-    {
-      "Name": "Rainbow 6 Siege",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/R6.zip"
-    },
-    {
-      "Name": "Rust",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/Rust.zip"
-    },
-    {
-      "Name": "Fortnite",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/Fortnite.exe"
-    },
-    {
-      "Name": "Fragpunk",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/FragPunk.exe"
-    },
-    {
-      "Name": "Marvel Rivals",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/Marvel_Rivals.exe"
-    },
-    {
-      "Name": "The Finals",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/Finals.zip"
-    },
-    {
-      "Name": "Apex Legends",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/Apex_Legends.zip"
-    },
-    {
-      "Name": "Counter Strike 2",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/Counter_Strike_2.zip"
-    },
-    {
-      "Name": "PUBG",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/PUBG.zip"
-    },
-    {
-      "Name": "Temp Spoofer",
-      "DownloadUrl": "https://example.com/tempspoofer.zip"
+      "Name": "VC Runtime",
+      "DownloadUrl": "https://trxxlo.wants.solutions/r/VC.zip"
     }
   ]
 }
