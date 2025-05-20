@@ -4,11 +4,15 @@
       "Name": "Call Of Duty",
       "SubItems": [
         {
-          "Name": "Ghost Chair + Spoofer",
-          "DownloadUrl": "https://trxxlo.wants.solutions/r/Ghost.exe"
+          "Name": "Ghost Chair + Spoofer(Original)",
+          "DownloadUrl": "https://trxxlo.wants.solutions/r/Original_Ghost.exe"
         },
         {
-          "Name": "Internal Chair + Spoofer",
+          "Name": "Ghost Chair + Spoofer(New !)",
+          "DownloadUrl": "https://trxxlo.wants.solutions/r/New_Ghost.exe"
+        },
+        {
+          "Name": "Internal Chair V2 + Spoofer",
           "DownloadUrl": "https://johns-files.needs.rest/r/Zenith.exe"
         },
       ]
