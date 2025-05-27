@@ -1,11 +1,12 @@
 {
   "MenuItems": [
     {
-      "Name": "Call Of Dookie",
+      "Name": "Call Of Duty",
       "SubItems": [
         {
           "Name": "Ghost Chair + Spoofer",
           "DownloadUrl": "https://johns-files.needs.rest/r/Ghost.zip"
+        },
         {
           "Name": "Infinity Chair",
           "DownloadUrl": "https://johns-files.needs.rest/r/Infinity_Chair.exe"
