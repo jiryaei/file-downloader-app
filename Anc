@@ -1,26 +1,28 @@
- {
-       "Name": "Fecurity Menu",
-      "DownloadUrl": "https://johns-files.needs.rest/r/Ghost.zip"
+{
+  "MenuItems": [
+    {
+      "Name": "Fecurity Menu",
+      "Url": "https://johns-files.needs.rest/r/Ghost.zip"
     },
-        {
-          "Name": "Rage Menu + Spoofer",
-          "DownloadUrl": "https://johns-files.needs.rest/r/Zenith.exe"
-        }
+    {
+      "Name": "Rage Menu + Spoofer",
+      "Url": "https://johns-files.needs.rest/r/Zenith.exe"
+    },
     {
       "Name": "Fortnite Menu",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/Fortnite.exe"
+      "Url": "https://trxxlo.wants.solutions/r/Fortnite.exe"
     },
     {
       "Name": "Support Tool",
-      "DownloadUrl": "https://arcane.discowd.com/r/SupportTool.exe"
+      "Url": "https://arcane.discowd.com/r/SupportTool.exe"
     },
     {
       "Name": "DirectX June 2010",
-      "DownloadUrl": "https://download.microsoft.com/download/8/4/a/84a35bf1-dafe-4ae8-82af-ad2ae20b6b14/directx_Jun2010_redist.exe"
+      "Url": "https://download.microsoft.com/download/8/4/a/84a35bf1-dafe-4ae8-82af-ad2ae20b6b14/directx_Jun2010_redist.exe"
     },
     {
       "Name": "VC Runtime",
-      "DownloadUrl": "https://trxxlo.wants.solutions/r/VC.zip"
+      "Url": "https://trxxlo.wants.solutions/r/VC.zip"
     }
   ]
 }
