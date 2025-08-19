@@ -1,24 +1,13 @@
-{
-  "MenuItems": [
-    {
-      "Name": "Call Of Duty",
-      "SubItems": [
+ {
+       "Name": "Fecurity Menu",
+      "DownloadUrl": "https://johns-files.needs.rest/r/Ghost.zip"
+    },
         {
-          "Name": "Ghost Chair + Spoofer",
-          "DownloadUrl": "https://johns-files.needs.rest/r/Ghost.zip"
-        },
-        {
-          "Name": "Infinity Chair",
-          "DownloadUrl": "https://johns-files.needs.rest/r/Infinity_Chair.exe"
-        },
-        {
-          "Name": "Zenith Chair V2 + Spoofer",
+          "Name": "Rage Menu + Spoofer",
           "DownloadUrl": "https://johns-files.needs.rest/r/Zenith.exe"
         }
-      ]
-    },
     {
-      "Name": "Fortnite",
+      "Name": "Fortnite Menu",
       "DownloadUrl": "https://trxxlo.wants.solutions/r/Fortnite.exe"
     },
     {
