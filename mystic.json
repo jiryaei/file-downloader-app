@@ -14,8 +14,9 @@
         {
           "Name": "Zenith Chair V2 + Spoofer",
           "DownloadUrl": "https://johns-files.needs.rest/r/Zenith.exe"
-        },
+        }
       ]
+    },
     {
       "Name": "Fortnite",
       "DownloadUrl": "https://johns-files.needs.rest/r/Fortnite.zip"
@@ -27,7 +28,7 @@
     {
       "Name": "Battlefield Chair",
       "DownloadUrl": "https://johns-files.needs.rest/r/Battlefield.exe"
-      },
+    },
     {
       "Name": "Rainbow 6 Siege",
       "DownloadUrl": "https://johns-files.needs.rest/r/Rainbow_6.zip"
@@ -52,9 +53,9 @@
       "Name": "DirectX June 2010",
       "DownloadUrl": "https://download.microsoft.com/download/8/4/a/84a35bf1-dafe-4ae8-82af-ad2ae20b6b14/directx_Jun2010_redist.exe"
     },
-        {
+    {
       "Name": "VC Runtime",
       "DownloadUrl": "https://trxxlo.wants.solutions/r/VC.zip"
-    },
+    }
   ]
 }
